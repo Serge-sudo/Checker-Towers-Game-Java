@@ -1,3 +1,1 @@
-# java-course
-
-Checkers and Towers Game 
+# Checker-Towers-Game-Java
